@@ -14,6 +14,9 @@
 - Ver Películas
 - Marvel & DC
 
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/julhernz/)
+
 ## Notas:
 ##### 1. Agregar los cambios al área de staging(todos los archivos).
 git add .
