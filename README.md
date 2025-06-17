@@ -6,7 +6,7 @@
 | Julián Hernández | 21 | Ingeniería Informática |
 
 
-### Notas:
+## Notas:
 ##### 1. Agregar los cambios al área de staging(todos los archivos).
 git add .
 ##### O si solo desea agregar un archivo en specifico y no todos seria:
