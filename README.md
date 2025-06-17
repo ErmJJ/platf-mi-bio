@@ -1,9 +1,10 @@
 # Tareas Plataformas Abiertas
 
 ## Mi Biografía
-*Nombre de estudiante:* Julián Hernández D./
-*Edad:* 21/
-*Carrera:* Ingeniería Informática/
+| **Estudiante** | **Edad** | **Carrera** |
+|--------------|--------------|--------------|
+| Julián Hernández | 21 | Ingeniería Informática |
+
 
 ## Notas:
 #### 1. Agregar los cambios al área de staging(todos los archivos).
