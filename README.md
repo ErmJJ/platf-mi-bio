@@ -5,6 +5,14 @@
 |--------------|--------------|--------------|
 | Julián Hernández | 21 | Ingeniería Informática |
 
+## Hobbies
+- Jugar Videojuegos
+- Escuchar Música
+- Viajar
+- Leer Comic's
+- Ver Series
+- Ver Películas
+- Marvel & DC
 
 ## Notas:
 ##### 1. Agregar los cambios al área de staging(todos los archivos).
