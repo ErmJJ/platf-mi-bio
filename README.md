@@ -1,6 +1,6 @@
 # Tareas Plataformas Abiertas
 
-## Mi Biografía
+### Mi Biografía
 | **Estudiante** | **Edad** | **Carrera** |
 |--------------|--------------|--------------|
 | Julián Hernández | 21 | Ingeniería Informática |
